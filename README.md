@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**Matrix-Re/Matrix-Re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi I'm Anas !👋
 
-Here are some ideas to get you started:
+I'm a dedicated software engineering student with a deep enthusiasm for the art of software editing and design. I find joy in shaping code into well-crafted solutions, transforming concepts into functional and visually appealing software. Let's code with creativity! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string name = "Anas";
+        string role = "student software developer";
+
+        Console.WriteLine($"Hi, I'm {name}, I'm a {role}");
+    }
+}
+
+```
+
+---
+
+# Contact
+Feel free to reach out to me! 📬
+-  **Email:** anasmiri17@gmail.com
+- **LinkedIn:** [Anas AMIRI](https://www.linkedin.com/in/anas-amiri-a89a29202/)
